@@ -2,3 +2,4 @@ wp-config.php
 *.log
 .env
 uploads/
+wp-config.php
